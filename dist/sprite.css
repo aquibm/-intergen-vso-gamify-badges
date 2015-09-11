@@ -1,0 +1,13 @@
+.icon {
+  background-image: url("../images/sprite.png");
+}
+.icon-bug-catcher {
+  background-position: -0px -0px;
+  width: 264px;
+  height: 264px;
+}
+.icon-bug-slayer {
+  background-position: -0px -264px;
+  width: 264px;
+  height: 264px;
+}
